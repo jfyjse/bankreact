@@ -1,0 +1,19 @@
+.headd{
+    text-align: center;
+}
+.margg{
+    margin-top: 30px;
+}
+.fhead{
+    width: 35%;
+    height: 330px;
+    background-color: whitesmoke;
+    border-radius: 2px;
+}
+.flexx{
+    display: flex;
+    justify-content: center;
+}
+.labmargin{
+    margin-top: 7px;
+}
